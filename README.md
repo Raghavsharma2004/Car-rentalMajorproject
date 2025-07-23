@@ -1,4 +1,4 @@
-# carsclub
+# carrental
 buy a car &amp; rent a car mern stack application
 
 MERN Stack Application --
